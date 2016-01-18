@@ -16,7 +16,7 @@ namespace EF_StringLength_Attribute
         }
 
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Customer> Customers { get; set; }
+
 
     }
 
